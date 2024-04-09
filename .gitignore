@@ -2,3 +2,5 @@
 ./.vscode
 .idea
 .vscode
+./mock-data/node_modules
+mock-data\node_modules

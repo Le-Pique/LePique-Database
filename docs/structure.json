@@ -1,0 +1,261 @@
+{
+  "locations": [
+    {
+      "id": "507f1f77bcf86cd799439011",
+      "title": "Sucursal CAB Tegucigalpa",
+      "address": "Avenida Arbol Verde",
+      "type": "Sucursal",
+      "phone_number": "6060-6060",
+      "location": {
+        "point": "string",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "507f1f77bcf86cd799439011",
+      "created_at": "2016-05-18T16:00:00Z",
+      "updated_at": "2016-05-18T16:00:00Z",
+      "personal_information": {
+        "email": "correo@email.com",
+        "username": "username",
+        "password": "12345AAAA",
+        "profile_picture": "https://picsum.photos/200/300"
+      },
+      "role": "manager"
+    },
+    {
+      "id": "507f1f77bcf86cd799439011",
+      "created_at": "2016-05-18T16:00:00Z",
+      "updated_at": "2016-05-18T16:00:00Z",
+      "personal_information": {
+        "email": "correo@email.com",
+        "username": "username",
+        "password": "12345AAAA",
+        "profile_picture": "https://picsum.photos/200/300"
+      },
+      "role": "courier"
+    },
+    {
+      "id": "507f1f77bcf86cd799439011",
+      "created_at": "2016-05-18T16:00:00Z",
+      "updated_at": "2016-05-18T16:00:00Z",
+      "personal_information": {
+        "email": "correo@email.com",
+        "username": "username",
+        "password": "12345AAAA",
+        "profile_picture": "https://picsum.photos/200/300"
+      },
+      "role": "consumer",
+      "contacts": [
+        {
+          "name": "Trabajo",
+          "phone_number": "7070-7070"
+        },
+        {
+          "name": "Móvil",
+          "phone_number": "7070-7070"
+        }
+      ],
+      "addresses": [
+        {
+          "id": "507f1f77bcf86cd799439011",
+          "name": "Casa",
+          "type": "Home",
+          "phone_number": "7070-7070",
+          "address": "Avenida Casa del árbol",
+          "location": {
+            "point": "string",
+            "coordinates": [
+              -74.006,
+              40.7128
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "507f1f77bcf86cd799439011",
+      "created_at": "2016-05-18T16:00:00Z",
+      "updated_at": "2016-05-18T16:00:00Z",
+      "personal_information": {
+        "email": "correo@email.com",
+        "username": "username",
+        "password": "12345AAAA",
+        "profile_picture": "https://picsum.photos/200/300"
+      },
+      "role": "support_agent"
+    }
+  ],
+  "orders": [
+    {
+      "id": "order_id",
+      "status": [
+        "En ruta"
+      ],
+      "delivery_confirmation": {
+        "courier_confirmation": {
+          "confirmed_at": "2016-05-18T16:00:00Z",
+          "evidence_pictures": [
+            "binary_file_1",
+            "binary_file_2",
+            "binary_file_3"
+          ]
+        },
+        "receiver_confirmation": {
+          "state": "unconfirmed",
+          "evidence_pictures": []
+        }
+      },
+      "coordinates": [
+        -74.006,
+        40.7128
+      ],
+      "notifications": [
+        {
+          "title": "string",
+          "message": "string",
+          "actions": [
+            {
+              "title": "Abrir pedido",
+              "type": "deeplink",
+              "ios-deeplink": "lepique://pedido/1234",
+              "android-deeplink": "intent://lepique.com/pedido/{order_id}?#Intent;scheme=https;package=com.lepique.app;S.browser_fallback_url=https://www.lepique.com/order/{order_id}",
+              "web-link": "https://www.lepique.com/order/1234"
+            }
+          ]
+        }
+      ],
+      "details": {
+        "reference": "1-99756",
+        "product": "***-9686",
+        "created_at": "2016-05-18T16:00:00Z",
+        "estimated_delivery_date": "10/04/2024",
+        "eta": "2 hours",
+        "contents": {
+          "type": [
+            "POS",
+            "Documento",
+            "Tarjeta de crédito",
+            "Tarjeta de débito"
+          ]
+        },
+        "sender_information": {
+          "assigned_manager_id": "507f1f77bcf86cd799439011",
+          "name": "Banco CAB",
+          "location_id": "507f1f77bcf86cd799439011"
+        },
+        "receiver_information": {
+          "id": "507f1f77bcf86cd799439011",
+          "name": "string",
+          "location_id": "507f1f77bcf86cd799439011",
+          "location_type": "consumer_address"
+        },
+        "movements": [
+          {
+            "id": "507f1f77bcf86cd799439011",
+            "date": "10/04/2024 8:00 A.M",
+            "title": "Pago procesado en sucursal",
+            "location_id": "507f1f77bcf86cd799439011",
+            "coordinates": [
+              -74.006,
+              40.7128
+            ]
+          },
+          {
+            "id": "507f1f77bcf86cd799439011",
+            "date": "10/04/2024 8:00 A.M",
+            "title": "Ruta Copán - Tegucigalpa",
+            "coordinates": {
+              "start": [
+                -74.006,
+                40.7128
+              ],
+              "end": [
+                -74.006,
+                40.7128
+              ]
+            }
+          },
+          {
+            "id": "507f1f77bcf86cd799439011",
+            "date": "10/04/2024 8:00 A.M",
+            "title": "En Agencia Copán",
+            "location_id": "507f1f77bcf86cd799439011",
+            "coordinates": [
+              -74.006,
+              40.7128
+            ]
+          },
+          {
+            "id": "507f1f77bcf86cd799439011",
+            "date": "10/04/2024 8:00 A.M",
+            "title": "Pago procesado en sucursal",
+            "location_id": "507f1f77bcf86cd799439011",
+            "current": true,
+            "coordinates": {
+              "start": [
+                -74.006,
+                40.7128
+              ],
+              "end": [
+                -74.006,
+                40.7128
+              ]
+            }
+          }
+        ]
+      },
+      "rating": {
+        "receiver-opinion": {
+          "comments": "La entrega estaba un poco golpeada."
+        },
+        "time_accomplished": false,
+        "time_delay": "2 hours"
+      },
+      "chat_messages": [
+        {
+          "id": "507f1f77bcf86cd799439011",
+          "sender": "consumer"
+        },
+        {
+          "id": "507f1f77bcf86cd799439011",
+          "sender": "courier"
+        }
+      ],
+      "support-tickets": [
+        {
+          "order_id": "507f1f77bcf86cd799439011",
+          "sender_id": "507f1f77bcf86cd799439011",
+          "consumer_id": "507f1f77bcf86cd799439011",
+          "assigned_support_agent": "507f1f77bcf86cd799439011",
+          "status": "open",
+          "title": "Mi pedido no ha llegado",
+          "short_description": "Intento contactarme con el gestor pero este no me responde.",
+          "chat_messages": [
+            {
+              "id": "507f1f77bcf86cd799439011",
+              "sender": "support_agent"
+            },
+            {
+              "id": "507f1f77bcf86cd799439011",
+              "sender": "consumer"
+            },
+            {
+              "id": "507f1f77bcf86cd799439011",
+              "sender": "courier"
+            },
+            {
+              "id": "507f1f77bcf86cd799439011",
+              "sender": "support_agent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

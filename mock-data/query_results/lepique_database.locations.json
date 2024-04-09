@@ -1,0 +1,1020 @@
+[{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069f2"
+  },
+  "id": "3ea488c3-1ce9-4e02-8bc5-38cbd1657349",
+  "title": "Stanton Group Lindsaychester",
+  "address": "44032 Lynch Freeway",
+  "type": "Office",
+  "phone_number": "(981) 335-7523 x1421",
+  "location": {
+    "point": "11.8658,65.2309",
+    "coordinates": [
+      "-134.8051",
+      "-2.3047"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069f3"
+  },
+  "id": "9418a0b0-176b-4f03-b0f8-d0631c357caf",
+  "title": "Erdman - Johns Parker",
+  "address": "8765 Arlo Neck",
+  "type": "Warehouse",
+  "phone_number": "1-284-567-9588 x226",
+  "location": {
+    "point": "97.2819,78.8822",
+    "coordinates": [
+      "-39.8890",
+      "32.1847"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069f4"
+  },
+  "id": "26f760f6-84f2-405e-9ea4-f5267491de23",
+  "title": "Kutch and Sons East Erin",
+  "address": "90673 Goldner Tunnel",
+  "type": "Office",
+  "phone_number": "977-401-3270 x302",
+  "location": {
+    "point": "113.6915,-1.9037",
+    "coordinates": [
+      "-75.3921",
+      "21.4310"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069f5"
+  },
+  "id": "2a251945-f62a-4a07-98a6-23fb96dbeb25",
+  "title": "Deckow LLC Costa Mesa",
+  "address": "2597 Josie Spring",
+  "type": "Warehouse",
+  "phone_number": "1-850-666-3652",
+  "location": {
+    "point": "42.3085,50.0015",
+    "coordinates": [
+      "133.9039",
+      "-88.1810"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069f6"
+  },
+  "id": "75458666-7840-494d-9334-aa96973fea71",
+  "title": "Kertzmann - Batz O'Konmouth",
+  "address": "048 Karlie Groves",
+  "type": "Office",
+  "phone_number": "(930) 849-3595 x2908",
+  "location": {
+    "point": "-55.7707,-59.3315",
+    "coordinates": [
+      "147.3314",
+      "-74.5581"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069f7"
+  },
+  "id": "b756f1b7-2d37-4db2-9e1b-48553cc636b8",
+  "title": "Ward - Kuhlman Port Kailey",
+  "address": "45867 Goyette Plains",
+  "type": "Sucursal",
+  "phone_number": "1-408-835-7901 x496",
+  "location": {
+    "point": "-41.0254,62.5496",
+    "coordinates": [
+      "100.3163",
+      "-37.6312"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069f8"
+  },
+  "id": "75d316c2-a6b9-46ec-a20f-6eae82d1c33d",
+  "title": "Jones LLC West Jevonland",
+  "address": "10834 Randi Plaza",
+  "type": "Office",
+  "phone_number": "(344) 996-2611",
+  "location": {
+    "point": "166.3568,-70.9890",
+    "coordinates": [
+      "11.9537",
+      "-60.0175"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069f9"
+  },
+  "id": "4984d609-0994-4fde-9028-68cb08a1e0fd",
+  "title": "Tremblay - Waters Kesslershire",
+  "address": "651 Waters Cliff",
+  "type": "Office",
+  "phone_number": "847.975.8507",
+  "location": {
+    "point": "49.3511,-69.9879",
+    "coordinates": [
+      "46.1689",
+      "-62.0700"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069fa"
+  },
+  "id": "31c4706f-fe4c-4161-b8a1-ce2c94cad97d",
+  "title": "Hauck LLC Port Rodolfo",
+  "address": "576 Morar Harbor",
+  "type": "Sucursal",
+  "phone_number": "(575) 775-7343 x92694",
+  "location": {
+    "point": "85.9094,25.1351",
+    "coordinates": [
+      "93.4097",
+      "41.8674"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069fb"
+  },
+  "id": "3049c5aa-f56d-46c0-befd-1a033845de75",
+  "title": "Kshlerin - Towne Petefort",
+  "address": "68949 Okuneva Causeway",
+  "type": "Warehouse",
+  "phone_number": "(613) 719-0297 x6076",
+  "location": {
+    "point": "69.7498,27.1100",
+    "coordinates": [
+      "-102.7942",
+      "34.0882"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069fc"
+  },
+  "id": "e37610e7-cabe-43d1-8c72-3c59f16e3ad1",
+  "title": "Legros - Abernathy West Covina",
+  "address": "65915 Jeanne Burgs",
+  "type": "Warehouse",
+  "phone_number": "573-206-3135 x9548",
+  "location": {
+    "point": "-64.2227,-19.6749",
+    "coordinates": [
+      "-88.1307",
+      "23.4231"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069fd"
+  },
+  "id": "0452d341-e2e0-40a7-9849-ffc701694076",
+  "title": "Wunsch and Sons North Elzachester",
+  "address": "7811 Heathcote Unions",
+  "type": "Warehouse",
+  "phone_number": "(972) 581-5773",
+  "location": {
+    "point": "-61.9146,1.8214",
+    "coordinates": [
+      "31.0602",
+      "52.2398"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069fe"
+  },
+  "id": "8427cb5e-7229-40f3-b13f-a2435624d6c6",
+  "title": "Klein LLC Bodeberg",
+  "address": "12388 Grayce Loop",
+  "type": "Sucursal",
+  "phone_number": "1-777-380-4887 x14183",
+  "location": {
+    "point": "135.5524,-50.3666",
+    "coordinates": [
+      "-161.3251",
+      "-48.1580"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc6069ff"
+  },
+  "id": "e9c0b2b7-4653-4e4a-b2d0-0d593396f512",
+  "title": "Rau, Moore and Graham Frankieport",
+  "address": "52083 Kuhic Rapid",
+  "type": "Sucursal",
+  "phone_number": "1-899-678-3669",
+  "location": {
+    "point": "-143.1710,86.0595",
+    "coordinates": [
+      "-40.8804",
+      "57.1664"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a00"
+  },
+  "id": "bbfe21c7-1f68-40fc-88b0-614dc81c6cde",
+  "title": "Schaden - Kilback West Dariusburgh",
+  "address": "047 Providenci Villages",
+  "type": "Sucursal",
+  "phone_number": "893-768-0680",
+  "location": {
+    "point": "-118.2983,25.5963",
+    "coordinates": [
+      "131.4603",
+      "0.0802"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a01"
+  },
+  "id": "d703731f-bb86-4918-8f00-fdf40db2da6a",
+  "title": "Zieme LLC Crooksport",
+  "address": "8568 Carmine Lakes",
+  "type": "Warehouse",
+  "phone_number": "897-709-6467 x1270",
+  "location": {
+    "point": "-29.4374,-70.3633",
+    "coordinates": [
+      "-19.3577",
+      "-23.0258"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a02"
+  },
+  "id": "8bdffe63-f98a-4ea9-9827-924a7432def9",
+  "title": "Lynch, Ondricka and Lindgren Cerritos",
+  "address": "51237 Casey Keys",
+  "type": "Office",
+  "phone_number": "1-698-228-9966 x091",
+  "location": {
+    "point": "-44.4430,32.0318",
+    "coordinates": [
+      "-119.6268",
+      "-32.3933"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a03"
+  },
+  "id": "0e4e168a-d71c-4152-bef8-0d89c9ca0a7f",
+  "title": "Wyman, Wiegand and Bartoletti El Dorado Hills",
+  "address": "21976 Lolita Ramp",
+  "type": "Office",
+  "phone_number": "(375) 744-4126",
+  "location": {
+    "point": "-103.0305,49.8244",
+    "coordinates": [
+      "165.9537",
+      "71.4110"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a04"
+  },
+  "id": "78631210-d0c1-4e04-b06d-c208a7a65953",
+  "title": "Jakubowski - Moen Lesleyview",
+  "address": "1235 Steve Vista",
+  "type": "Office",
+  "phone_number": "710.867.8858 x6159",
+  "location": {
+    "point": "-11.2967,-33.7618",
+    "coordinates": [
+      "137.7381",
+      "60.0799"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a05"
+  },
+  "id": "9637128c-203e-4a29-9d5b-ff4bdf566f6b",
+  "title": "Feil - Fahey Port Abby",
+  "address": "8704 Anita Springs",
+  "type": "Warehouse",
+  "phone_number": "(449) 365-7427 x328",
+  "location": {
+    "point": "-144.3616,13.0066",
+    "coordinates": [
+      "-103.4017",
+      "41.9556"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a06"
+  },
+  "id": "eb58749a-1e4a-4ed1-80f4-996cdfd67e5f",
+  "title": "Dietrich and Sons West Maurine",
+  "address": "09276 Myrtice Falls",
+  "type": "Warehouse",
+  "phone_number": "1-917-386-8309",
+  "location": {
+    "point": "-52.3279,-76.0430",
+    "coordinates": [
+      "-96.6297",
+      "-72.5160"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a07"
+  },
+  "id": "5495676a-329a-4a8e-bc31-cee321cbdb17",
+  "title": "Nader Group Olsonberg",
+  "address": "5218 Hyatt Stravenue",
+  "type": "Sucursal",
+  "phone_number": "1-768-215-8639 x8182",
+  "location": {
+    "point": "36.9608,16.3340",
+    "coordinates": [
+      "77.3078",
+      "-82.5298"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a08"
+  },
+  "id": "94715855-7fe9-4843-8b5e-b7123247a1c7",
+  "title": "Runolfsdottir - Harris Port Yvonne",
+  "address": "0924 Ward Tunnel",
+  "type": "Office",
+  "phone_number": "1-256-719-4775",
+  "location": {
+    "point": "-136.0072,71.1688",
+    "coordinates": [
+      "174.9841",
+      "-76.9039"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a09"
+  },
+  "id": "ffce0f58-160f-4b11-9a67-58bf5c3ce56d",
+  "title": "Crooks, Pfannerstill and Goodwin Hansenmouth",
+  "address": "9246 Kiera Row",
+  "type": "Office",
+  "phone_number": "1-647-874-9443 x8483",
+  "location": {
+    "point": "116.5684,-33.0735",
+    "coordinates": [
+      "79.4031",
+      "-88.1316"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a0a"
+  },
+  "id": "2525f63b-a3a4-4b0e-a45d-d700daf26b3f",
+  "title": "Shanahan, Kub and Becker Royview",
+  "address": "59037 Greenfelder Crossing",
+  "type": "Sucursal",
+  "phone_number": "1-778-545-0080 x5068",
+  "location": {
+    "point": "16.0414,30.2851",
+    "coordinates": [
+      "-38.6654",
+      "-61.9861"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a0b"
+  },
+  "id": "a0326a49-4933-4ca6-b265-21b0dd930e4b",
+  "title": "Jaskolski LLC West Nathanton",
+  "address": "6970 Auer Spurs",
+  "type": "Sucursal",
+  "phone_number": "963.476.3231",
+  "location": {
+    "point": "-29.3314,24.3549",
+    "coordinates": [
+      "1.1855",
+      "-61.0162"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a0c"
+  },
+  "id": "6802d40c-65d6-47a2-a0d8-ba072cd9eedc",
+  "title": "Yost Inc Gastonchester",
+  "address": "24097 Lonzo Run",
+  "type": "Sucursal",
+  "phone_number": "998-649-8023 x796",
+  "location": {
+    "point": "-13.8132,-24.9500",
+    "coordinates": [
+      "145.9974",
+      "3.7757"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a0d"
+  },
+  "id": "568b1466-991f-4208-bcb3-70d8ef124c4c",
+  "title": "Kunde, Turner and Volkman East Toni",
+  "address": "981 Kattie Motorway",
+  "type": "Office",
+  "phone_number": "958.992.0816",
+  "location": {
+    "point": "-143.1193,85.0255",
+    "coordinates": [
+      "-18.0803",
+      "-6.6585"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a0e"
+  },
+  "id": "cd4bcb76-afd8-49b5-9c4e-5dd6be440dd2",
+  "title": "Auer - Beier Ozellahaven",
+  "address": "9399 Marquardt Manor",
+  "type": "Warehouse",
+  "phone_number": "672-850-3346 x8835",
+  "location": {
+    "point": "159.6780,-82.2127",
+    "coordinates": [
+      "-81.5865",
+      "-3.2926"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66157ee3111abe02dc606a0f"
+  },
+  "id": "5a4d3eeb-bebe-4b56-b007-e49772a4e88e",
+  "title": "Walker, Romaguera and Hegmann Port Marcellusmouth",
+  "address": "33048 Walker Well",
+  "type": "Office",
+  "phone_number": "301.690.2963 x852",
+  "location": {
+    "point": "-73.5641,-4.3832",
+    "coordinates": [
+      "55.1158",
+      "-8.1160"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6cc"
+  },
+  "id": "00421707-29cf-4d0f-9efb-7b5b7e4d28da",
+  "title": "Klein - Donnelly Asiaburgh",
+  "address": "6414 Lauryn Lake",
+  "type": "Office",
+  "phone_number": "943-478-1081",
+  "location": {
+    "point": "-174.4716,-8.8141",
+    "coordinates": [
+      "147.7720",
+      "-11.8173"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6cd"
+  },
+  "id": "423bad80-c441-445f-8859-d957463264fe",
+  "title": "Pagac Group Mobile",
+  "address": "14320 Swaniawski Ridge",
+  "type": "Sucursal",
+  "phone_number": "512-854-6197 x2266",
+  "location": {
+    "point": "-144.3658,-32.4894",
+    "coordinates": [
+      "-138.9417",
+      "50.0398"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6ce"
+  },
+  "id": "2ca651bf-1c4b-4295-afe9-c56e71816986",
+  "title": "O'Reilly, Kessler and Jenkins Yorba Linda",
+  "address": "16236 Considine Canyon",
+  "type": "Warehouse",
+  "phone_number": "884.551.3244",
+  "location": {
+    "point": "171.5933,64.8413",
+    "coordinates": [
+      "-108.4501",
+      "15.2614"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6cf"
+  },
+  "id": "10e350e0-c984-4346-b9fc-e8dbe138729c",
+  "title": "O'Connell and Sons Lake Andreland",
+  "address": "0214 Bins Camp",
+  "type": "Warehouse",
+  "phone_number": "(575) 997-3172",
+  "location": {
+    "point": "179.8283,82.3530",
+    "coordinates": [
+      "-83.2464",
+      "60.5547"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6d0"
+  },
+  "id": "1edefb4e-dbe1-4e36-812f-51c2e126ef06",
+  "title": "Conn, Murphy and Grant Beierchester",
+  "address": "71174 Mohammed Place",
+  "type": "Sucursal",
+  "phone_number": "722-714-8608 x193",
+  "location": {
+    "point": "156.9212,4.5837",
+    "coordinates": [
+      "0.2043",
+      "46.6644"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6d1"
+  },
+  "id": "6e92e504-ea6a-48ad-8d6b-ad53d60417f2",
+  "title": "Batz, Lowe and Pagac Mauricioside",
+  "address": "73891 DuBuque Court",
+  "type": "Sucursal",
+  "phone_number": "(289) 672-0979",
+  "location": {
+    "point": "123.9316,-54.5086",
+    "coordinates": [
+      "76.5603",
+      "37.6215"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6d2"
+  },
+  "id": "2d045a52-45e0-47a9-aef0-753017470307",
+  "title": "Schneider, Schulist and Stiedemann Yonkers",
+  "address": "94506 Efren Terrace",
+  "type": "Sucursal",
+  "phone_number": "(595) 941-3684 x5976",
+  "location": {
+    "point": "-146.0394,70.2717",
+    "coordinates": [
+      "-66.3718",
+      "20.9913"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6d3"
+  },
+  "id": "9f91fc6f-4b16-4cb8-8273-3e6261af510a",
+  "title": "Wolff, Keeling and Rice West Jeff",
+  "address": "55062 Cathy Ports",
+  "type": "Office",
+  "phone_number": "(966) 805-7722 x36751",
+  "location": {
+    "point": "-32.6174,13.1935",
+    "coordinates": [
+      "-42.5245",
+      "-44.9090"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6d4"
+  },
+  "id": "ef5af49a-43f5-49a0-9452-621901f2a65f",
+  "title": "Bauch, Windler and Ruecker Devyntown",
+  "address": "8448 Concepcion Cliff",
+  "type": "Warehouse",
+  "phone_number": "(689) 358-9615 x8315",
+  "location": {
+    "point": "130.3846,-46.4254",
+    "coordinates": [
+      "-154.1593",
+      "-36.9597"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6d5"
+  },
+  "id": "c7c46e5c-ea05-4278-8e42-658223bd7b8b",
+  "title": "Bartell, Emard and Balistreri South Jodie",
+  "address": "3120 Josh Trail",
+  "type": "Warehouse",
+  "phone_number": "(883) 932-6140",
+  "location": {
+    "point": "88.4903,-48.1040",
+    "coordinates": [
+      "74.7823",
+      "33.0893"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6d6"
+  },
+  "id": "9687b333-5ceb-413d-955a-baf531ea4426",
+  "title": "Schimmel, Walter and Cummerata Trystanfort",
+  "address": "333 Schowalter Ranch",
+  "type": "Sucursal",
+  "phone_number": "1-618-718-5351 x3138",
+  "location": {
+    "point": "-25.2332,64.6802",
+    "coordinates": [
+      "130.6574",
+      "2.3880"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6d7"
+  },
+  "id": "e52c1896-7318-4f77-9d66-0366f8387b79",
+  "title": "Walker, Considine and Lueilwitz West Haven",
+  "address": "64117 Emmanuel Pines",
+  "type": "Sucursal",
+  "phone_number": "875-631-0502 x21300",
+  "location": {
+    "point": "-54.5052,-55.0250",
+    "coordinates": [
+      "-5.0959",
+      "-2.5576"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6d8"
+  },
+  "id": "d747c54b-1f90-4f53-9f42-567110c312cb",
+  "title": "Hamill - Gutkowski Santa Ana",
+  "address": "4963 Stephania Green",
+  "type": "Office",
+  "phone_number": "617-268-0159 x63369",
+  "location": {
+    "point": "-114.0273,-36.7594",
+    "coordinates": [
+      "-51.3158",
+      "3.1721"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6d9"
+  },
+  "id": "4df62078-9943-49b4-9b93-fbce88c07ef8",
+  "title": "Bruen - Mante East Velva",
+  "address": "114 Lionel Gateway",
+  "type": "Warehouse",
+  "phone_number": "1-524-842-8968 x46514",
+  "location": {
+    "point": "127.5159,-49.7740",
+    "coordinates": [
+      "23.5003",
+      "-19.8598"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6da"
+  },
+  "id": "a7b971ff-0d6a-441b-839a-67121b9ddbe7",
+  "title": "Cartwright, Olson and Glover Ernserhaven",
+  "address": "79252 Ortiz Plaza",
+  "type": "Sucursal",
+  "phone_number": "1-258-558-6227",
+  "location": {
+    "point": "44.4194,41.0206",
+    "coordinates": [
+      "111.9110",
+      "-41.5988"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6db"
+  },
+  "id": "199ef07a-06b7-4a4a-b3d4-a42f422368c0",
+  "title": "Cassin, Kunze and Franecki Lake Wilson",
+  "address": "377 Bahringer Isle",
+  "type": "Sucursal",
+  "phone_number": "235.380.0657",
+  "location": {
+    "point": "66.6263,3.5667",
+    "coordinates": [
+      "3.7097",
+      "-37.2435"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6dc"
+  },
+  "id": "525d1912-2629-4a75-b950-0be6dadcb0b5",
+  "title": "Block and Sons South Remington",
+  "address": "5397 Mervin Trafficway",
+  "type": "Office",
+  "phone_number": "787-567-7370 x381",
+  "location": {
+    "point": "-39.5911,-56.1509",
+    "coordinates": [
+      "-121.2512",
+      "41.3217"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6dd"
+  },
+  "id": "cf2d26ef-64e9-4a66-b0f2-b2bccd575a64",
+  "title": "Douglas, Murray and Harris Sengermouth",
+  "address": "31953 Sabryna Glens",
+  "type": "Sucursal",
+  "phone_number": "1-813-842-3085",
+  "location": {
+    "point": "168.9901,-51.0977",
+    "coordinates": [
+      "176.0886",
+      "43.6160"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6de"
+  },
+  "id": "5cc332f4-88c9-4e22-9105-7773f57eff2d",
+  "title": "Deckow Group Lake Krisland",
+  "address": "223 Christina Roads",
+  "type": "Warehouse",
+  "phone_number": "1-355-467-8928",
+  "location": {
+    "point": "-86.9568,-31.6574",
+    "coordinates": [
+      "70.9676",
+      "66.8342"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6df"
+  },
+  "id": "3407d6f2-0f5c-433a-9b24-ddf3bd902164",
+  "title": "Hane, Crooks and Kozey South Hardyburgh",
+  "address": "04626 Ryan Route",
+  "type": "Sucursal",
+  "phone_number": "685.704.4659 x86658",
+  "location": {
+    "point": "42.1581,-22.8678",
+    "coordinates": [
+      "125.5188",
+      "-69.9649"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6e0"
+  },
+  "id": "c127656d-7413-4fdd-84a0-d2464f5926af",
+  "title": "Roberts Inc Ogden",
+  "address": "498 Bryana Street",
+  "type": "Office",
+  "phone_number": "691-349-7852 x5393",
+  "location": {
+    "point": "-117.7442,3.9351",
+    "coordinates": [
+      "111.4135",
+      "40.7663"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6e1"
+  },
+  "id": "8f2ffc6c-5f24-49f6-859c-ef3219dc830a",
+  "title": "Kris - Bradtke East Jarrett",
+  "address": "798 Gardner Spur",
+  "type": "Sucursal",
+  "phone_number": "879.874.6280",
+  "location": {
+    "point": "4.1340,-85.3494",
+    "coordinates": [
+      "-159.3742",
+      "-28.0616"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6e2"
+  },
+  "id": "85d3b749-7de3-41e0-ba32-d88e6ef041d1",
+  "title": "Steuber Inc New Ethelstad",
+  "address": "352 Kozey Oval",
+  "type": "Sucursal",
+  "phone_number": "494-595-4750",
+  "location": {
+    "point": "39.4972,-58.8595",
+    "coordinates": [
+      "84.6501",
+      "43.1472"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6e3"
+  },
+  "id": "cc87074f-8f67-4dd6-b3e9-111d694e2b7c",
+  "title": "Kohler - Barrows Monterey Park",
+  "address": "46792 O'Kon Road",
+  "type": "Office",
+  "phone_number": "(679) 885-7779 x6132",
+  "location": {
+    "point": "29.9703,74.5862",
+    "coordinates": [
+      "179.8876",
+      "-64.2826"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6e4"
+  },
+  "id": "9004b946-ade0-4076-9fc0-887dcf535623",
+  "title": "Ankunding - Schmeler Millcreek",
+  "address": "4778 Shanny Cliff",
+  "type": "Sucursal",
+  "phone_number": "(428) 844-0680",
+  "location": {
+    "point": "-168.0270,-73.3294",
+    "coordinates": [
+      "-39.5361",
+      "75.7224"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6e5"
+  },
+  "id": "c737aa88-57fd-409f-9baf-80b5a08faf6b",
+  "title": "Gerlach Inc Fountain Valley",
+  "address": "12102 Kilback Canyon",
+  "type": "Warehouse",
+  "phone_number": "403.628.8587 x73350",
+  "location": {
+    "point": "120.9924,-53.5498",
+    "coordinates": [
+      "-79.1255",
+      "-66.1538"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6e6"
+  },
+  "id": "d8d76366-32c6-48c7-8103-29dd0f89d737",
+  "title": "Ebert - Berge North Harley",
+  "address": "6490 Zemlak Burgs",
+  "type": "Office",
+  "phone_number": "843-942-5431 x908",
+  "location": {
+    "point": "136.4101,79.6879",
+    "coordinates": [
+      "-146.7419",
+      "30.3288"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6e7"
+  },
+  "id": "5911d5dc-35ca-4d18-9970-218204bb29a7",
+  "title": "Lehner, Mante and Boehm Port Aidan",
+  "address": "40704 King Junctions",
+  "type": "Warehouse",
+  "phone_number": "1-822-452-7610 x66733",
+  "location": {
+    "point": "-10.8591,35.0629",
+    "coordinates": [
+      "-79.7852",
+      "-28.9032"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6e8"
+  },
+  "id": "703bb7f4-d459-4128-82da-ee6404a792b5",
+  "title": "Paucek Inc Grahamfort",
+  "address": "39583 Lindgren Rue",
+  "type": "Warehouse",
+  "phone_number": "1-594-241-9097 x58476",
+  "location": {
+    "point": "-126.2586,49.8595",
+    "coordinates": [
+      "-123.2184",
+      "-56.3082"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6615819c3e6fae3595c1a6e9"
+  },
+  "id": "9900a234-8b55-44c0-9cf0-43175a457f82",
+  "title": "Cormier - Jaskolski Kuphalton",
+  "address": "1911 Camden Mall",
+  "type": "Warehouse",
+  "phone_number": "650-248-3801",
+  "location": {
+    "point": "66.6840,-64.5990",
+    "coordinates": [
+      "-84.0608",
+      "14.8685"
+    ]
+  }
+}]

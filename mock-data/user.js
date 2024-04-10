@@ -5,8 +5,8 @@ db.createUser({
   user: "lepique_database_desarrollador",
   pwd: "lepique_database_desarrollador",
   roles: [
-    { role: "readWrite", db: "lepique_database_desarrollador" },
-    { role: "dbOwner", db: "lepique_database_desarrollador" },
+    { role: "readWrite", db: "lepique_database" },
+    { role: "dbOwner", db: "lepique_database" },
     { role: "readWriteAnyDatabase", db: "admin" },
     { role: "dbAdminAnyDatabase", db: "admin" },
     { role: "userAdminAnyDatabase", db: "admin" },

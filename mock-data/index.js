@@ -17,7 +17,7 @@ const dbName = process.env.DB_NAME
 
 // Collection names
 const collectionNames = ["locations", "users", "orders"]
-
+ v
 
 // Generate mock data for locations
 const generateLocations = (count) => {
